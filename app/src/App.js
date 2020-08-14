@@ -1,26 +1,30 @@
 import React from 'react';
-import logo from './logo.svg';
+import Portfolio from './img/portfolio.png';
+import styled from 'styled-components'
 import './App.css';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class App extends React.Component {
+  render() {
+    const Styles = styled.div`
+      .background {
+          background: url(${ Portfolio }) no-repeat center fixed;
+          background-position: center;
+          background-size: cover;
+          background-attachment: scroll;
+          height: 3100px;
+          padding: 140px 100px;
+          color: #ffffff
+      }
+    `
+    return (
+      <Styles>
+        <div className='background'>
+        </div>
+      </Styles>
+      
+    )
+  }
+  
 }
 
 export default App;
