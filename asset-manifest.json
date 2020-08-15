@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio-deploy/static/css/main.5f361e03.chunk.css",
+    "main.js": "/portfolio-deploy/static/js/main.efbe4de8.chunk.js",
+    "main.js.map": "/portfolio-deploy/static/js/main.efbe4de8.chunk.js.map",
+    "runtime-main.js": "/portfolio-deploy/static/js/runtime-main.c47ead1b.js",
+    "runtime-main.js.map": "/portfolio-deploy/static/js/runtime-main.c47ead1b.js.map",
+    "static/js/2.4630fa70.chunk.js": "/portfolio-deploy/static/js/2.4630fa70.chunk.js",
+    "static/js/2.4630fa70.chunk.js.map": "/portfolio-deploy/static/js/2.4630fa70.chunk.js.map",
+    "index.html": "/portfolio-deploy/index.html",
+    "precache-manifest.32c2d1675cd0e3806bb735dc1a0ce749.js": "/portfolio-deploy/precache-manifest.32c2d1675cd0e3806bb735dc1a0ce749.js",
+    "service-worker.js": "/portfolio-deploy/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/portfolio-deploy/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.4630fa70.chunk.js.LICENSE.txt": "/portfolio-deploy/static/js/2.4630fa70.chunk.js.LICENSE.txt",
+    "static/media/ffLogo.png": "/portfolio-deploy/static/media/ffLogo.81f4c9e3.png",
+    "static/media/portfolio.png": "/portfolio-deploy/static/media/portfolio.646def75.png",
+    "static/media/ticTacRobotlogo.png": "/portfolio-deploy/static/media/ticTacRobotlogo.a7bbcaa9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c47ead1b.js",
+    "static/js/2.4630fa70.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.efbe4de8.chunk.js"
+  ]
+}
