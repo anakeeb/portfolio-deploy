@@ -324,7 +324,7 @@ class App extends React.Component {
               <Col>
               </Col>
               <Col>
-                <a>
+                <a href='https://anakeeb.github.io/tic-tac-robot-deploy'>
                   <button className='link2' onMouseEnter={() => this.handleHoverIn(1)} onMouseLeave={() => this.handleHoverOut(1)}>
                     { this.state.hovered[1] ? ttrText : ttr }
                   </button>
